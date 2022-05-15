@@ -14,7 +14,7 @@ class _HelpUsPageState extends State<HelpUsPage> {
       appBar: AppBar(
         title: Text("HelpUs Page"),
       ),
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.green,
     );
   }
 }
